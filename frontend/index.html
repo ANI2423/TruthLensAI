@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TruthLensAI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+    <header>
+        <h1>TruthLensAI</h1>
+        <p>AI-Powered Fake News & Deepfake Detection</p>
+    </header>
+
+    <div class="cards">
+
+        <!-- TEXT CARD -->
+        <div class="card">
+            <h2>📰 Fake News Detection</h2>
+            <textarea id="newsText" placeholder="Paste news text here..."></textarea>
+            <button onclick="checkText()">Analyze Text</button>
+            <div class="result" id="textResult"></div>
+        </div>
+
+        <!-- IMAGE CARD -->
+        <div class="card">
+            <h2>🖼️ Deepfake Detection</h2>
+            <input type="file" id="imageInput">
+            <button onclick="checkImage()">Analyze Image</button>
+            <div class="result" id="imageResult"></div>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
