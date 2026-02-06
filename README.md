@@ -43,6 +43,12 @@ The goal of this project is to improve **digital trust**, reduce the spread of m
 - Secure & Ethical AI System  
 
 ---
+## 📸 Screenshots
+
+![Dashboard](assets/dashboard.png)
+![Analysis](assets/analysis.png)
+![Results](assets/results.png)
+
 
 ## 🛠 Tech Stack
 
