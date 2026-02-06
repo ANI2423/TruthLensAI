@@ -45,9 +45,10 @@ The goal of this project is to improve **digital trust**, reduce the spread of m
 ---
 ## 📸 Screenshots
 
-![Dashboard](assets/dashboard.png)
-![Analysis](assets/analysis.png)
-![Results](assets/results.png)
+![Screenshot 1](assets/Screenshot%202026-02-04%20220038.png)
+![Screenshot 2](assets/Screenshot%202026-02-04%20222936.png)
+![Screenshot 3](assets/Screenshot%202026-02-04%20232405.png)
+
 
 
 ## 🛠 Tech Stack
